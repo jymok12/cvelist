@@ -1,12 +1,6 @@
 # CVE Automation Working Group Git Pilot
 
-The [CVE Automation Working
-Group](https://github.com/CVEProject/automation-working-group) is
-piloting use of git to share information about public vulnerabilities. 
-The goal is to learn not only what features are necessary to support
-the "plumbing" of sending and receiving the data, but also which
-attributes and metadata are needed in the CVE format to support
-automation. 
+CVE Automation Working Group not only learn the necessary features but also the metadata required by sharing information on public vulnerabilities. 
 
 See [How to Contribute](https://github.com/CVEProject/cvelist/blob/master/CONTRIBUTING.md)
 for details on participating in this pilot.
